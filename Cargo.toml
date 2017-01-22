@@ -3,7 +3,7 @@ name = "rp"
 version = "0.1.0"
 authors = ["Aaron Miller <aaron.miller04@gmail.com>"]
 description = "Command-line tool to pick a random page from a book"
-license = "WTFPL (Copyright is brain damage. http://www.youtube.com/watch?v=XO9FKQAxWZc)"
+license = "GPL-3.0+"
 
 [dependencies]
 rand = "0.3.15"
